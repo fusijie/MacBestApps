@@ -11,7 +11,7 @@
 |Bartender						|[进入官网](https://www.macbartender.com)|付费|状态栏图标管理|    
 |Karabiner-Elements 			|[进入官网](https://github.com/tekezo/Karabiner-Elements)|开源|改键神器|    
 |Archiver							|[进入官网](https://archiverapp.com)|付费|解压缩软件|    
-|Battery Stats for AirPods		|[进入官网](https://itunes.apple.com/cn/app/battery-stats-for-airpods/id1405763798?mt=12)|免费|状态栏一键连接AirPods|    
+|Battery Stats for AirPods		|[进入官网](https://itunes.apple.com/cn/app/battery-stats-for-airpods/id1405763798?mt=12)|免费|状态栏一键连接 AirPods|    
 |万年历								|[进入官网](https://github.com/zfdang/chinese-lunar-calendar-for-mac)|开源|状态栏显示万年历|    
 |Space Drop						|[进入官网](https://fiplab.com/apps/space-drop-for-mac)|付费|暂存拖拉文件|   
 |Sip								|[进入官网](https://sipapp.io)|付费|颜色采集工具|   
@@ -99,13 +99,13 @@
 |:---:|:---:|:---:|:---:|:--:|
 |Sequel Pro				|[进入官网](https://www.sequelpro.com)|开源|数据库操作工具|     
 |Beyond Compare			|[进入官网](https://www.scootersoftware.com)|付费|项目、文件对比神器|     
-|Dash						|[进入官网](https://kapeli.com/dash)|付费|文档、API查询工具|    
+|Dash						|[进入官网](https://kapeli.com/dash)|付费|文档、API 查询工具|    
 
 ### 安卓模拟器
 
 | 应用名 | 下载地址 | 授权 | 备注 | 推荐指数 | 
 |:---:|:---:|:---:|:---:|:--:|
-|网易MuMu			|[进入官网](http://mumu.163.com)|免费|Mac少有能用的安卓模拟器|   
+|网易MuMu			|[进入官网](http://mumu.163.com)|免费|Mac 少有能用的安卓模拟器|   
 
 ### 项目计划
 
@@ -124,7 +124,7 @@
 
 | 应用名 | 下载地址 | 授权 | 备注 | 推荐指数 | 
 |:---:|:---:|:---:|:---:|:--:|
-|LICEcap			|[进入官网](https://www.cockos.com/licecap)|开源|gif录制|    
+|LICEcap			|[进入官网](https://www.cockos.com/licecap)|开源|gif 录制|    
 |Hands Off!		|[进入官网](https://www.oneperiodic.com/products/handsoff)|付费|管理应用网络连接|    
 
 
