@@ -124,8 +124,10 @@
 
 | 应用名 | 下载地址 | 授权 | 备注 | 推荐指数 | 
 |:---:|:---:|:---:|:---:|:--:|
+|CleanMyMac X		|[进入官网](https://macpaw.com/cleanmymac)|付费|垃圾清理，软件卸载|    
 |LICEcap			|[进入官网](https://www.cockos.com/licecap)|开源|gif 录制|    
-|Hands Off!		|[进入官网](https://www.oneperiodic.com/products/handsoff)|付费|管理应用网络连接|    
+|Hands Off!		|[进入官网](https://www.oneperiodic.com/products/handsoff)|付费|管理应用网络连
+接|    
 
 
 
