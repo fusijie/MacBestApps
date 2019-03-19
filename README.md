@@ -1,6 +1,20 @@
 # 我的 Mac 工具清单
 
-推荐指数是基于我个人的使用习惯和使用频率而定。
+推荐指数是基于应用的功能，界面风格以及我个人的使用习惯和使用频率而定。
+
+### 工作效率
+
+| 应用名 | 下载地址 | 授权 | 备注 | 推荐指数 | 
+|:---:|:---:|:---:|:---:|:--:|
+|Alfed								|[进入官网](https://www.alfredapp.com)|付费|Mac 效率之王|     
+|Moom								|[进入官网](https://manytricks.com/moom)|付费|窗口分屏管理工具|    
+|Bartender						|[进入官网](https://www.macbartender.com)|付费|状态栏图标管理|    
+|Karabiner-Elements 			|[进入官网](https://github.com/tekezo/Karabiner-Elements)|开源|改键神器|    
+|Archiver							|[进入官网](https://archiverapp.com)|付费|解压缩软件|    
+|Battery Stats for AirPods		|[进入官网](https://itunes.apple.com/cn/app/battery-stats-for-airpods/id1405763798?mt=12)|免费|状态栏一键连接AirPods|    
+|万年历								|[进入官网](https://github.com/zfdang/chinese-lunar-calendar-for-mac)|开源|状态栏显示万年历|    
+|Space Drop						|[进入官网](https://fiplab.com/apps/space-drop-for-mac)|付费|暂存拖拉文件|   
+|Sip								|[进入官网](https://sipapp.io)|付费|颜色采集工具|   
 
 ### 聊天工具
 
@@ -49,19 +63,6 @@
 |Go2Shell					|[进入官网](https://zipzapmac.com/go2shell)|免费|当前 Finder 窗口打开命令行|    
 |Tuxera disk manager	|[进入官网](https://www.tuxera.com/products/tuxera-ntfs-for-mac)|付费|Mac兼容 NTFS 格式磁盘|    
 
-### 其他工具
-
-| 应用名 | 下载地址 | 授权 | 备注 | 推荐指数 | 
-|:---:|:---:|:---:|:---:|:--:|
-|LICEcap			|[进入官网](https://www.cockos.com/licecap)|开源|gif录制|    
-|Hands Off!		|[进入官网](https://www.oneperiodic.com/products/handsoff)|付费|管理应用网络连接|    
-
-### 版本控制
-
-| 应用名 | 下载地址 | 授权 | 备注 | 推荐指数 | 
-|:---:|:---:|:---:|:---:|:--:|
-|SourceTree		|[进入官网](https://www.sourcetreeapp.com)|免费||    
-
 ### 文本编辑
 
 | 应用名 | 下载地址 | 授权 | 备注 | 推荐指数 | 
@@ -71,20 +72,6 @@
 |Skim						|[进入官网](https://skim-app.sourceforge.io)|免费|PDF 文件处理|    
 |Sublime Text				|[进入官网](https://www.sublimetext.com)|付费|更轻量|    
 |Office 套件				|[进入官网](https://products.office.com/zh-cn/mac)|付费|Office mac 版|    
-
-### 工作效率
-
-| 应用名 | 下载地址 | 授权 | 备注 | 推荐指数 | 
-|:---:|:---:|:---:|:---:|:--:|
-|Alfed								|[进入官网](https://www.alfredapp.com)|付费|Mac 效率之王|     
-|Moom								|[进入官网](https://manytricks.com/moom)|付费|窗口分屏管理工具|    
-|Bartender						|[进入官网](https://www.macbartender.com)|付费|状态栏图标管理|    
-|Karabiner-Elements 			|[进入官网](https://github.com/tekezo/Karabiner-Elements)|开源|改键神器|    
-|Archiver							|[进入官网](https://archiverapp.com)|付费|解压缩软件|    
-|Battery Stats for AirPods		|[进入官网](https://itunes.apple.com/cn/app/battery-stats-for-airpods/id1405763798?mt=12)|免费|状态栏一键连接AirPods|    
-|万年历								|[进入官网](https://github.com/zfdang/chinese-lunar-calendar-for-mac)|开源|状态栏显示万年历|    
-|Space Drop						|[进入官网](https://fiplab.com/apps/space-drop-for-mac)|付费|暂存拖拉文件|   
-|Sip								|[进入官网](https://sipapp.io)|付费|颜色采集工具|   
 
 ### 远程桌面
 
@@ -120,14 +107,25 @@
 |:---:|:---:|:---:|:---:|:--:|
 |网易MuMu			|[进入官网](http://mumu.163.com)|免费|Mac少有能用的安卓模拟器|   
 
-### 项目管理
+### 项目计划
 
 | 应用名 | 下载地址 | 授权 | 备注 | 推荐指数 | 
 |:---:|:---:|:---:|:---:|:--:|
 |TowerIM			|[进入官网](https://tower.im)|免费|团队协作看板工具|   
 |奇妙清单			|[进入官网](https://www.wunderlist.com/zh)|免费|个人任务管理工具|   
 
+### 版本控制
 
+| 应用名 | 下载地址 | 授权 | 备注 | 推荐指数 | 
+|:---:|:---:|:---:|:---:|:--:|
+|SourceTree		|[进入官网](https://www.sourcetreeapp.com)|免费||    
+
+### 其他工具
+
+| 应用名 | 下载地址 | 授权 | 备注 | 推荐指数 | 
+|:---:|:---:|:---:|:---:|:--:|
+|LICEcap			|[进入官网](https://www.cockos.com/licecap)|开源|gif录制|    
+|Hands Off!		|[进入官网](https://www.oneperiodic.com/products/handsoff)|付费|管理应用网络连接|    
 
 
 
