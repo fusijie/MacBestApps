@@ -6,7 +6,7 @@
 
 | 应用名 | 下载地址 | 授权 | 备注 | 推荐指数 | 
 |:---:|:---:|:---:|:---:|:--:|
-|Alfed								|[进入官网](https://www.alfredapp.com)|付费|Mac 效率之王|     
+|Alfred								|[进入官网](https://www.alfredapp.com)|付费|Mac 效率之王|     
 |Moom								|[进入官网](https://manytricks.com/moom)|付费|窗口分屏管理工具|    
 |Bartender						|[进入官网](https://www.macbartender.com)|付费|状态栏图标管理|    
 |Karabiner-Elements 			|[进入官网](https://github.com/tekezo/Karabiner-Elements)|开源|改键神器|    
