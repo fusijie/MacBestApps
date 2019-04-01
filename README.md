@@ -131,7 +131,7 @@
 ### Chrome 插件
 
 | 应用名 | 下载地址 | 备注 | 推荐指数 | 
-|:---:|:---:|:---:|:---:|:--:|
+|:---:|:---:|:---:|:---:|
 |Chrono下载管理器						|[点击下载](https://chrome.google.com/webstore/detail/mciiogijehkdemklbdcbfkefimifhecn)|Chrome 最强下载管理器|    
 |JSON Viewer Awesome				|[点击下载](https://chrome.google.com/webstore/detail/iemadiahhbebdklepanmkjenfdebfpfe)|美化 JSON|    
 |暂存标签								|[点击下载](https://chrome.google.com/webstore/detail/igbkiendclmannlppkbacbfnolhgoino)|一键暂存所有已打开标签|    
