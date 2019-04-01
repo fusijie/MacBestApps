@@ -130,6 +130,30 @@
 
 ### Chrome 插件
 
+| 应用名 | 下载地址 | 备注 | 推荐指数 | 
+|:---:|:---:|:---:|:---:|:--:|
+|Chrono下载管理器						|[点击下载](https://chrome.google.com/webstore/detail/mciiogijehkdemklbdcbfkefimifhecn)|Chrome 最强下载管理器|    
+|JSON Viewer Awesome				|[点击下载](https://chrome.google.com/webstore/detail/iemadiahhbebdklepanmkjenfdebfpfe)|美化 JSON|    
+|暂存标签								|[点击下载](https://chrome.google.com/webstore/detail/igbkiendclmannlppkbacbfnolhgoino)|一键暂存所有已打开标签|    
+|SimpleUndoClose 					|[点击下载](https://chrome.google.com/webstore/detail/emhohdghchmjepmigjojkehidlielknj)|撤销关闭标签|    
+|广告终结者								|[点击下载](https://chrome.google.com/webstore/detail/fpdnjdlbdmifoocedhkighhlbchbiikl)|屏蔽广告|    
+|谷歌访问助手							|[点击下载](https://chrome.google.com/webstore/detail/gocklaboggjfkolaknpbhddbaopcepfp)|免翻墙访问谷歌，插件商店，Gmail|    
+|LastPass: Free Password Manager |[点击下载](https://chrome.google.com/webstore/detail/hdokiejnpimakedhajhdlcegeplioahd)|免费密码管理器|    
+|Infinity 新标签页(Pro)				|[点击下载](https://chrome.google.com/webstore/detail/nnnkddnnlpamobajfibfdgfnbcnkgngh)|功能强大的新标签页|    
+|云盘万能钥匙							|[点击下载](https://chrome.google.com/webstore/detail/anlllmnpjodopgbkbpnghnjlelnogfjc)|检测云盘状态，填写分享密码|    
+|Video Downloader professional	|[点击下载](https://chrome.google.com/webstore/detail/bacakpdjpomjaelpkpkabmedhkoongbi)|在线视频下载|   
+|Octotree								|[点击下载](https://chrome.google.com/webstore/detail/bkhaagjahfmjljalopjnoealnfndnagc)|Github 增强|   
+|Share Extensions					|[点击下载](https://chrome.google.com/webstore/detail/chdafcbnfkfenoeejpaeenpdamhmalhe)|一键导出分享插件|   
+|加速器 								|[点击下载](https://chrome.google.com/webstore/detail/hgifnmdnlmhphhpfhpaoljpakcndhnhj)|优化网页加载速度|   
+|Yet Another Drag and Go			|[点击下载](https://chrome.google.com/webstore/detail/hnoonkgmmnklbdehoepdjcidhjbncjmi)|超级拖拽|   
+|划词翻译								|[点击下载](https://chrome.google.com/webstore/detail/ikhdkkncnoglghljlkmcimlnlhkeamad)|划词翻译|   
+|Imagus								|[点击下载](https://chrome.google.com/webstore/detail/immpkjjlgappgfkkfieppnmlhakdmaab)|鼠标悬停缩略图显示大图|   
+|Quick Bookmark Cleaner				|[点击下载](https://chrome.google.com/webstore/detail/ljfgijlbekebdhniagdekklbmmchhjja)|无效书签清理|   
+|GitHub Plus							|[点击下载](https://chrome.google.com/webstore/detail/lndphafdikhmpgopmchckooegfnifafm)|Github 增强|   
+|CSDN页面优化					 		|[点击下载](https://chrome.google.com/webstore/detail/pbhajdlkdeofhoicgdkanbbkdnglajkd)|屏蔽广告，显示全文|   
+| 二维码(QR码)生成器					|[点击下载](https://chrome.google.com/webstore/detail/pflgjjogbmmcmfhfcnlohagkablhbpmg)|生成当前页面二维码|   
+|右键搜									|[点击下载](https://chrome.google.com/webstore/detail/phlfmkfpmphogkomddckmggcfpmfchpn)|右键功能增强|   
+
 ### VSCode 插件
 
 ### QuickLook 插件
