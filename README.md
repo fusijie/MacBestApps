@@ -11,7 +11,7 @@
 |Bartender						|[进入官网](https://www.macbartender.com)|付费|状态栏图标管理|    
 |Karabiner-Elements 			|[进入官网](https://github.com/tekezo/Karabiner-Elements)|开源|改键神器|    
 |Archiver							|[进入官网](https://archiverapp.com)|付费|解压缩软件|    
-|Battery Stats for AirPods		|[进入官网](https://itunes.apple.com/cn/app/battery-stats-for-airpods/id1405763798?mt=12)|免费|状态栏一键连接 AirPods|    
+|ToothFairy		|[进入官网](https://c-command.com/toothfairy/)|付费|状态栏一键连接 AirPods|    
 |万年历								|[进入官网](https://github.com/zfdang/chinese-lunar-calendar-for-mac)|开源|状态栏显示万年历|    
 |Space Drop						|[进入官网](https://fiplab.com/apps/space-drop-for-mac)|付费|暂存拖拉文件|   
 |Sip								|[进入官网](https://sipapp.io)|付费|颜色采集工具|   
