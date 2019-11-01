@@ -144,7 +144,7 @@
 |Chrono下载管理器						|[点击下载](https://chrome.google.com/webstore/detail/mciiogijehkdemklbdcbfkefimifhecn)|Chrome 最强下载管理器|    
 |JSON Viewer Awesome				|[点击下载](https://chrome.google.com/webstore/detail/iemadiahhbebdklepanmkjenfdebfpfe)|美化 JSON|    
 |暂存标签								|[点击下载](https://chrome.google.com/webstore/detail/igbkiendclmannlppkbacbfnolhgoino)|一键暂存所有已打开标签|    
-|SimpleUndoClose 					|[点击下载](https://chrome.google.com/webstore/detail/emhohdghchmjepmigjojkehidlielknj)|撤销关闭标签|    
+|Undo Closed Tabs Button			|[点击下载](https://chrome.google.com/webstore/detail/ieehkmoiljghfkejgahoheemdjpdinml)|撤销关闭标签|    
 |广告终结者								|[点击下载](https://chrome.google.com/webstore/detail/fpdnjdlbdmifoocedhkighhlbchbiikl)|屏蔽广告|    
 |谷歌访问助手							|[点击下载](https://chrome.google.com/webstore/detail/gocklaboggjfkolaknpbhddbaopcepfp)|免翻墙访问谷歌，插件商店，Gmail|    
 |LastPass: Free Password Manager |[点击下载](https://chrome.google.com/webstore/detail/hdokiejnpimakedhajhdlcegeplioahd)|免费密码管理器|    
@@ -162,6 +162,11 @@
 |CSDN页面优化					 		|[点击下载](https://chrome.google.com/webstore/detail/pbhajdlkdeofhoicgdkanbbkdnglajkd)|屏蔽广告，显示全文|   
 | 二维码(QR码)生成器					|[点击下载](https://chrome.google.com/webstore/detail/pflgjjogbmmcmfhfcnlohagkablhbpmg)|生成当前页面二维码|   
 |右键搜									|[点击下载](https://chrome.google.com/webstore/detail/phlfmkfpmphogkomddckmggcfpmfchpn)|右键功能增强|   
+|Github Hovercard					|[点击下载](https://chrome.google.com/webstore/detail/mmoahbbnojgkclgceahhakhnccimnplk)|Github 预览卡片|   
+|CSDN 页面优化							|[点击下载](https://chrome.google.com/webstore/detail/pbhajdlkdeofhoicgdkanbbkdnglajkd)|自动展开 CSDN 博客全文，去广告|   
+|New Tab Redirect					|[点击下载](https://chrome.google.com/webstore/detail/icpgjfneehieebagbmdbhnlpiopdcmna)|新标签自定义网站|   
+|购物党自动比价工具						|[点击下载](https://chrome.google.com/webstore/detail/jgphnjokjhjlcnnajmfjlacjnjkhleah)|购物网站优惠提示|   
+|过滤广告 為 Youtube™					|[点击下载](https://chrome.google.com/webstore/detail/cmedhionkhpnakcndndgjdbohmhepckk)|Youtube 广告过滤|   
 
 ### VSCode 插件
 
