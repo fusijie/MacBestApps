@@ -6,12 +6,13 @@
 
 | 应用名 | 下载地址 | 授权 | 备注 | 推荐指数 | 
 |:---:|:---:|:---:|:---:|:--:|
-|Alfred								|[进入官网](https://www.alfredapp.com)|付费|Mac 效率之王|     
+|Alfred							|[进入官网](https://www.alfredapp.com)|付费|Mac 效率之王|     
+|utools							|[进入官网](https://u.tools/)|免费|国产良心软件，可以替代 Alfred|     
 |Moom								|[进入官网](https://manytricks.com/moom)|付费|窗口分屏管理工具|    
 |Bartender						|[进入官网](https://www.macbartender.com)|付费|状态栏图标管理|    
 |Karabiner-Elements 			|[进入官网](https://github.com/tekezo/Karabiner-Elements)|开源|改键神器|    
 |Archiver							|[进入官网](https://archiverapp.com)|付费|解压缩软件|    
-|Battery Stats for AirPods		|[进入官网](https://itunes.apple.com/cn/app/battery-stats-for-airpods/id1405763798?mt=12)|免费|状态栏一键连接 AirPods|    
+|ToothFairy						|[进入官网](https://c-command.com/toothfairy/)|免费|状态栏一键连接 AirPods|    
 |万年历								|[进入官网](https://github.com/zfdang/chinese-lunar-calendar-for-mac)|开源|状态栏显示万年历|    
 |Space Drop						|[进入官网](https://fiplab.com/apps/space-drop-for-mac)|付费|暂存拖拉文件|   
 |Sip								|[进入官网](https://sipapp.io)|付费|颜色采集工具|   
@@ -62,6 +63,7 @@
 |TotalFinder				|[进入官网](https://totalfinder.binaryage.com/)|付费|Finder 增强，Chrome 式标签|    
 |Go2Shell					|[进入官网](https://zipzapmac.com/go2shell)|免费|当前 Finder 窗口打开命令行|    
 |Tuxera disk manager	|[进入官网](https://www.tuxera.com/products/tuxera-ntfs-for-mac)|付费|Mac兼容 NTFS 格式磁盘|    
+|Paragon NTFS for Mac	|[进入官网](https://www.paragon-software.com/home/ntfs-mac/)|付费|Mac兼容 NTFS 格式磁盘|    
 
 ### 文本编辑
 
@@ -72,6 +74,7 @@
 |Skim						|[进入官网](https://skim-app.sourceforge.io)|免费|PDF 文件处理|    
 |Sublime Text				|[进入官网](https://www.sublimetext.com)|付费|更轻量|    
 |Office 套件				|[进入官网](https://products.office.com/zh-cn/mac)|付费|Office mac 版|    
+|印象笔记					|[进入官网](https://www.yinxiang.com/)|免费/付费|云管理个人文档|    
 
 ### 远程桌面
 
@@ -84,8 +87,9 @@
 
 | 应用名 | 下载地址 | 授权 | 备注 | 推荐指数 | 
 |:---:|:---:|:---:|:---:|:--:|
-|ShadowsocksX			|[进入官网](https://github.com/shadowsocks/ShadowsocksX-NG)|免费|Shadowsocks mac 客户端|     
-|Lantern			|[进入官网](https://github.com/getlantern/lantern)|免费/付费|每月500M免费流量，相对稳定|    
+|V2RayX			|[进入官网](https://github.com/Cenmrev/V2RayX)|开源| V2Ray mac 客户端|     
+|ShadowsocksX		|[进入官网](https://github.com/shadowsocks/ShadowsocksX-NG)|免费|Shadowsocks mac 客户端|     
+|Lantern			|[进入官网](https://github.com/getlantern/lantern)|免费/付费|每月500M免费流量，相对稳定|  
 
 ### 财务管理
 
@@ -113,6 +117,8 @@
 |:---:|:---:|:---:|:---:|:--:|
 |TowerIM			|[进入官网](https://tower.im)|免费|团队协作看板工具|   
 |奇妙清单			|[进入官网](https://www.wunderlist.com/zh)|免费|个人任务管理工具|   
+|XMind Zen		|[进入官网](https://www.xmind.cn/zen/)|付费|思维导图|   
+|Axure RP			|[进入官网](https://www.axure.com/)|付费|产品原型|   
 
 ### 版本控制
 
@@ -127,6 +133,9 @@
 |CleanMyMac X		|[进入官网](https://macpaw.com/cleanmymac)|付费|垃圾清理，软件卸载|    
 |LICEcap			|[进入官网](https://www.cockos.com/licecap)|开源|gif 录制|    
 |Hands Off!		|[进入官网](https://www.oneperiodic.com/products/handsoff)|付费|管理应用网络连接|    
+|DaisyDisk		|[进入官网](https://daisydiskapp.com/)|付费|硬盘清理工具|    
+|看图				|[进入官网](https://kantu.qq.com/)|免费|腾讯出品 看图软件|     
+|GhostTile		|[进入官网](https://ghosttile.kernelpanic.im/)|免费/付费|隐藏 Dock 图标|     
 
 ### Chrome 插件
 
