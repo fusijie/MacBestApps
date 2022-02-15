@@ -14,8 +14,10 @@
 |Archiver							|[进入官网](https://archiverapp.com)|付费|解压缩软件|    
 |ToothFairy						|[进入官网](https://c-command.com/toothfairy/)|免费|状态栏一键连接 AirPods|    
 |万年历								|[进入官网](https://github.com/zfdang/chinese-lunar-calendar-for-mac)|开源|状态栏显示万年历|    
+|Hidden Bar						|[进入官网](https://github.com/zfdang/chinese-lunar-calendar-for-mac)|开源|隐藏菜单栏图标|    
 |Space Drop						|[进入官网](https://fiplab.com/apps/space-drop-for-mac)|付费|暂存拖拉文件|   
 |Sip								|[进入官网](https://sipapp.io)|付费|颜色采集工具|   
+|BetterTouchTool					|[进入官网](https://folivora.ai/)|付费|Magic Mouse增强工具|   
 
 ### 聊天工具
 
@@ -62,6 +64,7 @@
 |:---:|:---:|:---:|:---:|:--:|
 |TotalFinder				|[进入官网](https://totalfinder.binaryage.com/)|付费|Finder 增强，Chrome 式标签|    
 |Go2Shell					|[进入官网](https://zipzapmac.com/go2shell)|免费|当前 Finder 窗口打开命令行|    
+|Mounty					|[进入官网](https://mounty.app/)|免费|Mac兼容 NTFS 格式磁盘|     
 |Tuxera disk manager	|[进入官网](https://www.tuxera.com/products/tuxera-ntfs-for-mac)|付费|Mac兼容 NTFS 格式磁盘|    
 |Paragon NTFS for Mac	|[进入官网](https://www.paragon-software.com/home/ntfs-mac/)|付费|Mac兼容 NTFS 格式磁盘|    
 
@@ -75,6 +78,7 @@
 |Sublime Text				|[进入官网](https://www.sublimetext.com)|付费|更轻量|    
 |Office 套件				|[进入官网](https://products.office.com/zh-cn/mac)|付费|Office mac 版|    
 |印象笔记					|[进入官网](https://www.yinxiang.com/)|免费/付费|云管理个人文档|    
+|MWeb						|[进入官网](https://zh.mweb.im//)|付费|支付 Markdown 文件夹管理|    
 
 ### 远程桌面
 
@@ -87,6 +91,8 @@
 
 | 应用名 | 下载地址 | 授权 | 备注 | 推荐指数 | 
 |:---:|:---:|:---:|:---:|:--:|
+|V2RayU			|[进入官网](https://github.com/yanue/V2rayU)|开源| 基于V2Ray mac 客户端|     
+|ClashX			|[进入官网](https://github.com/yichengchen/clashX)|开源| 轻量，易用，友好|     
 |V2RayX			|[进入官网](https://github.com/Cenmrev/V2RayX)|开源| V2Ray mac 客户端|     
 |ShadowsocksX		|[进入官网](https://github.com/shadowsocks/ShadowsocksX-NG)|免费|Shadowsocks mac 客户端|     
 |Lantern			|[进入官网](https://github.com/getlantern/lantern)|免费/付费|每月500M免费流量，相对稳定|  
@@ -125,6 +131,7 @@
 | 应用名 | 下载地址 | 授权 | 备注 | 推荐指数 | 
 |:---:|:---:|:---:|:---:|:--:|
 |SourceTree		|[进入官网](https://www.sourcetreeapp.com)|免费||    
+|Cornerstone		|[进入官网](https://cornerstone.assembla.com/)|付费||   
 
 ### 其他工具
 
@@ -136,6 +143,10 @@
 |DaisyDisk		|[进入官网](https://daisydiskapp.com/)|付费|硬盘清理工具|    
 |看图				|[进入官网](https://kantu.qq.com/)|免费|腾讯出品 看图软件|     
 |GhostTile		|[进入官网](https://ghosttile.kernelpanic.im/)|免费/付费|隐藏 Dock 图标|     
+|HandBrake		|[进入官网](https://handbrake.fr/)|免费|视频转换压缩工具|     
+|Mos				|[进入官网](https://mos.caldis.me/)|免费|一个用于在 MacOS 上平滑你的鼠标滚动效果或单独设置滚动方向的小工具, 让你的滚轮爽如触控板|     
+|WaterMinder		|[进入官网](https://waterminder.com/)|付费|提醒定时喝水的软件|     
+|Xnip				|[进入官网](https://xnipapp.com/)|免费|截图软件，支持长截图，置顶等操作|     
 
 ### Chrome 插件
 
@@ -167,6 +178,8 @@
 |New Tab Redirect					|[点击下载](https://chrome.google.com/webstore/detail/icpgjfneehieebagbmdbhnlpiopdcmna)|新标签自定义网站|   
 |购物党自动比价工具						|[点击下载](https://chrome.google.com/webstore/detail/jgphnjokjhjlcnnajmfjlacjnjkhleah)|购物网站优惠提示|   
 |过滤广告 為 Youtube™					|[点击下载](https://chrome.google.com/webstore/detail/cmedhionkhpnakcndndgjdbohmhepckk)|Youtube 广告过滤|   
+|Toby Mini							|[点击下载](https://chrome.google.com/webstore/detail/gfdcgfhkelkdmglklfbndgopaihmoeci)|收藏管理整组页签|   
+
 
 ### VSCode 插件
 
